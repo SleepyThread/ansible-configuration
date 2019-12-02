@@ -1,3 +1,4 @@
 ---
 # Site YML
-- include: www.yml
+- include: web.yml
+- include: docker.yml
